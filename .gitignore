@@ -5,5 +5,5 @@ data/
 datasets/
 models/
 *.pth
-logs/
+*.logs/
 checkpoints/
